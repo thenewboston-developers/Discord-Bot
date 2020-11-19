@@ -1,0 +1,24 @@
+{
+  "name": "local-bot",
+  "version": "1.0.0",
+  "description": "Discord test bot for TDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajputusman/local-bot.git"
+  },
+  "author": "RajputUsman & DinShpati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajputusman/local-bot/issues"
+  },
+  "homepage": "https://github.com/Rajputusman/local-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.13.0"
+  }
+}
